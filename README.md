@@ -25,5 +25,7 @@ Microsoft Excel: Data Import
 Power BI: Data Analysis, Data Visualization
 
 Dashboard link: [Novy Pro] (https://project.novypro.com/7mkUdY)
+
 Presentation link: [Canva] (https://www.canva.com/design/DAGK_623S_Y/eja-8j7TfnpZb1FQvOX0eg/edit?utm_content=DAGK_623S_Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 Video Link: [Youtube] (https://youtu.be/xX1-CREvmVE?si=TEjBDKfsqxhsabbz)
